@@ -1,0 +1,6 @@
+discord.py==2.3.2
+aiohttp
+flask
+aiohttp
+discord.py==2.3.2
+flask
